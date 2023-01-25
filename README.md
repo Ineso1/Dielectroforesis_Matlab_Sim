@@ -1,4 +1,4 @@
-# Dielectrodoresis
+# Dielectroforesis
 Simulacion de el diagnostico de malaria a partir del campo electrico generado por dos placas paralelas
 
 This repository contains a simulation code that models dielectrophoresis (DEP) for the detection of malaria. DEP is a technique that uses a non-uniform electric field to manipulate and separate particles in a liquid medium. The simulation code uses computational models to simulate the DEP process and predict the behavior of malaria-infected red blood cells in the electric field. The simulation results are then compared with experimental data to validate the accuracy of the model. The code is well-organized and well-commented, making it easy to understand and modify as needed. Additionally, the repository also includes a detailed explanation of the underlying physics and principles of DEP, as well as the specific implementation of the simulation for malaria detection.
